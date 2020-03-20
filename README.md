@@ -19,12 +19,10 @@ To use the project-
 
 
 ### Credits
-To complete the project, I used my knowledge which I gained over the course of studying the Python Foundation Nanodegree Program on Udacity. If I got stuck some place, the source(s) below helped me-
-
+To complete the project, I used my knowledge which I gained over the course of studying the Python Foundation Nanodegree Program on Udacity. 
     Stackoverflow
     Python documentation
     Tutorials Point
     Pandas Documentation
-    I used Jupyter Notebook extensively for quickly running small snippets of code, and Atom editor for bigger pieces of code.
 
 To install and setup Python 3.6- go here.
